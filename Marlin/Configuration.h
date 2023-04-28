@@ -1708,7 +1708,7 @@
 #define Y_BED_SIZE 220
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
-#define X_MIN_POS 10
+#define X_MIN_POS -10
 #define Y_MIN_POS -22.5
 #define Z_MIN_POS 0
 #define X_MAX_POS X_BED_SIZE
